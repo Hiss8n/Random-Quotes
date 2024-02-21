@@ -9,7 +9,7 @@ body{
     text-align:center;
     padding: 0px;
     margin: 0px;
-    background: url(./trees.jpg) no-repeat center center/cover;
+    background-color:#0e1538;
 }
 .container{
     display:grid;
